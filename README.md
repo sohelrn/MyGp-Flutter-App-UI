@@ -1,2 +1,9 @@
-# MyGp-Flutter-App-UI
-MyGP App, brought to you by Grameenphone Limited. Seamlessly browse through all your Grameenphone services and accounts with this personalized Self-Service app.
+# MyGp - Flutter App UI
+MyGp home page flutter app UI design for learning purpose.
+
+
+## ScreenShot
+
+<img src="screenshots/screenshot-1.png" width="375"> <img src="screenshots/screenshot-2.png" width="375">
+
+<img src="screenshots/screenshot-1.png" width="375"> <img src="screenshots/screenshot-2.png" width="375">
